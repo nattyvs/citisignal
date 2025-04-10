@@ -1,19 +1,19 @@
 {
     "mappings": [
-      "/content/citisignal-one/:/",
-      "/content/citisignal-one/configuration:/.helix/config.json",
-      "/content/citisignal-one/metadata:/metadata.json",
-      "/content/citisignal-one/configs:/configs.json",
-      "/content/citisignal-one/configs-stage:/configs-stage.json",
-      "/content/citisignal-one/configs-dev:/configs-dev.json",
-      "/content/citisignal-one/redirects:/redirects.json",
-      "/content/citisignal-one/placeholders:/placeholders.json",
-      "/content/citisignal-one/products/recommended-products:/products/recommended-products.json",
-      "/content/citisignal-one/enrichment/enrichment:/enrichment/enrichment.json",
+      "/content/citisignal-one1/:/",
+      "/content/citisignal-one1/configuration:/.helix/config.json",
+      "/content/citisignal-one1/metadata:/metadata.json",
+      "/content/citisignal-one1/configs:/configs.json",
+      "/content/citisignal-one1/configs-stage:/configs-stage.json",
+      "/content/citisignal-one1/configs-dev:/configs-dev.json",
+      "/content/citisignal-one1/redirects:/redirects.json",
+      "/content/citisignal-one1/placeholders:/placeholders.json",
+      "/content/citisignal-one1/products/recommended-products:/products/recommended-products.json",
+      "/content/citisignal-one1/enrichment/enrichment:/enrichment/enrichment.json",
       "/content/dam/citisignal/images/products/:/images/products/"
     ],
     "includes": [
-      "/content/citisignal-one",
+      "/content/citisignal-one1",
       "/content/dam/citisignal/images/products/"
     ]
 }
